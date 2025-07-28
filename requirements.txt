@@ -1,0 +1,4 @@
+Flask
+pydantic
+python-sat[pblib,aiger]
+flask-cors
